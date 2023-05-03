@@ -17,3 +17,6 @@ If you need to know how to run the code, set it up inside of Netbeans and test i
   a few errors during the install process. With that being said, do have fun with templating and tweaking the
  code. It took me up to 7 years to learn this stuff, so, please, take your time. All I ask is that it gets used
   wisely. User descresion is advised, as any misuse of such is on you. 
+
+
+And yes, I only had chatGPT refine this readme file.
