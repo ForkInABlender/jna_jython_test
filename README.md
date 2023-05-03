@@ -16,4 +16,4 @@ If you need to know how to run the code, set it up inside of Netbeans and test i
  what you're looking for. If you're templating from this, do know that pip does work with it, but it will give you
   a few errors during the install process. With that being said, do have fun with templating and tweaking the
  code. It took me up to 7 years to learn this stuff, so, please, take your time. All I ask is that it gets used
-  wisely.
+  wisely. User descresion is advised, as any misuse of such is on you. 
